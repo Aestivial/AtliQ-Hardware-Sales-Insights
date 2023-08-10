@@ -10,6 +10,12 @@ The `db_dump.sql` file above is the SQL database dump for our project.
 
 After importing it to our server `DEV_sales_insights`, we go through the data to understand its structure and anamolies. Further analysis and visualizations are performed on Microsoft Power BI.
 
+For example:- Using the Power Query Editor to process the data and remove records such as NULL (blanks), or unrequired attributes from tables.
+![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/f6f1eb96-df85-4315-bf19-3322315834f2)
+
+We also use Power Query Editor to convert attributes into more meaningful forms such as converting the Currency Column as follows using DAX:
+![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/f0885706-2a7a-4eac-84a2-d2a8783071f2)
+
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/0b0fa7f4-04d8-456a-841e-b9612a9b3aa3)
 
 Dynamic and responsive dashboard:
