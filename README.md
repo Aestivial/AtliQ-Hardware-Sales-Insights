@@ -20,7 +20,12 @@ Post the processing, we head back to our dashboard section and select the `Enter
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/a9f74ac8-d55b-47bb-b98a-8793575541b1)
 
 Similarly we populate the dashboard with many more measures (and their visualizations based on corresponding axis data) until our Final Dashboard looks like this:
+
+## Final Dashboard:
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/0b0fa7f4-04d8-456a-841e-b9612a9b3aa3)
 
 Dynamic and responsive dashboard:
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/b1f69d67-5f1f-44f7-9322-64f6a5b7dd1b)
+
+## Link to the Power BI Dashboard:
+[app.powerbi.com/groups/me/reports/Nayan's_AltiQ_Report](https://app.powerbi.com/groups/me/reports/f0beaed8-4488-407a-8529-bcc3085230f9/ReportSection?experience=power-bi)
