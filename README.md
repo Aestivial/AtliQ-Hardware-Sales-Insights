@@ -16,6 +16,10 @@ For example:- Using the Power Query Editor to process the data and remove record
 We also use Power Query Editor to convert attributes into more meaningful forms such as converting the Currency Column as follows using DAX:
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/f0885706-2a7a-4eac-84a2-d2a8783071f2)
 
+Post the processing, we head back to our dashboard section and select the `Enter Data` option, where we create a  "BaseMeasure" table and add new measures for every attribute in our final Dashboard. For instance, to create our "Revenue" measure we did the following:
+![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/a9f74ac8-d55b-47bb-b98a-8793575541b1)
+
+Similarly we populate the dashboard with many more measures (and their visualizations based on corresponding axis data) until our Final Dashboard looks like this:
 ![image](https://github.com/Aestivial/AtliQ-Hardware-Sales-Insights/assets/69592060/0b0fa7f4-04d8-456a-841e-b9612a9b3aa3)
 
 Dynamic and responsive dashboard:
